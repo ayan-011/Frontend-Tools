@@ -3,7 +3,7 @@ import Navbar from '../components/navbar'
 
 const Hero = () => {
   return (
-    <div className='  bg-zinc-900  '>
+    <div className='  bg-zinc-800  '>
       <div className="w-full h-screen">
          <Navbar/>
          <div className="bg-zinc-900 w-[30vw] h-[20vw] m-5">          
